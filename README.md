@@ -1,4 +1,4 @@
-E-Prime Mart
+
 E-Prime Mart is an online e-commerce platform built with a mern stack technology to deliver a seamless shopping experience.
 
 
