@@ -2,22 +2,32 @@ E-PrimeMart is an e-commerce platform that allows customers to browse and purcha
 
 Technology Stack
 Frontend: ReactJS| HTML| CSS |JavaScript
+
 Backend:Node.js|Express.js|MongoDB
+
 Tools & IDEs:Git|Postman|Visual Studio Code
 
 Features
+
 Dynamic Inventory Management: Users can browse products, view product details, and add them to their cart.
+
 User Authentication: Secure user login and registration using JWT.
+
 Real-time Cart Updates: Changes made to the cart are reflected instantly.
+
 Responsive Design: Fully responsive UI optimized for both mobile and desktop use.
+
 CRUD Operations: Admin users can manage products, including adding, updating, and deleting items.
+
 Secure Checkout: Ensures the secure processing of orders with proper validation and error handling.
+
 
 Installation
 
 
 1. Clone the repository:
 git clone (https://github.com/sample314github/E-PrimeMart.git)
+
 
 3. Install dependencies:
 Backend:
