@@ -17,7 +17,7 @@ Installation
 
 
 1. Clone the repository:
-git clone https://github.com//e-primemart.git
+git clone (https://github.com/sample314github/E-PrimeMart.git)
 
 3. Install dependencies:
 Backend:
